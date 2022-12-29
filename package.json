@@ -1,6 +1,6 @@
 {
   "name": "@mongodb-model/controller",
-  "version": "0.0.0",
+  "version": "0.0.10",
   "description": "controller",
   "main": "index.js",
   "bin": {
